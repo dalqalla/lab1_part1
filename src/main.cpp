@@ -23,7 +23,7 @@ return (DNA) ;
 int main () {
 	functionDNA ();
 	cout<< "hi";
-	cout<<"hello";
+cout<<"hello";
 return 0 ;}
 
 
